@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.bitstock",
+    "sha256_cert_fingerprints":
+    ["A7:6A:E2:CD:FA:B2:2D:A1:DD:DF:E6:C0:45:75:62:AD:8D:39:F9:AC:CC:5F:2E:32:E2:7C:68:50:6B:BA:D0:72"]
+  }
+}]
